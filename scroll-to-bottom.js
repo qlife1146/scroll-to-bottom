@@ -9,21 +9,26 @@
 // @match		http://vocaro.wikidot.com/*
 // ==/UserScript==
 
-
 (function () {
     "use strict";
 
     const button = document.createElement("button");
     button.textContent = "맨 아래로";
     button.onclick = scrollToBottom;
-    button.style.position = 'fixed';
-    button.style.bottom = '0';
-    button.style.right = '0';
+    button.style.position = "fixed";
+    button.style.bottom = "0";
+    button.style.right = "0";
 
     document.body.appendChild(button);
     function scrollToBottom() {
-        window.scrollTo({
-            top: document.documentElement.scrollHeight,
-        });
+        const element = document.getElementById("page-options-bottom");
+        if (element) {
+            element.scrollIntoView({
+                block: "center",
+            });
+        }
+        // window.scrollTo({
+        //     top: document.documentElement.scrollHeight,
+        // });
     }
 })();
