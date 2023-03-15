@@ -1,13 +1,13 @@
 // ==UserScript==
 // @name            Scroll to Bottom Button
-// @version         1.0.4393939393939
+// @version         1.0.5
 // @description	    페이지 아래로 바로 내려갈 수 있는 버튼을 추가합니다.
 // @author          Luca_Tuna
 // @icon            http://vocaro.wikidot.com/local--files/nav:side/logo.png
 // @homepageURL     https://github.com/qlife1146/scroll-to-bottom/
 // @supportURL      https://github.com/qlife1146/scroll-to-bottom/issues
-// @downloadURL     https://qlife1146.github.io/scroll-to-bottom/scroll-to-bottom.js
-// @updateURL       https://qlife1146.github.io/scroll-to-bottom/scroll-to-bottom.js
+// @downloadURL     https://qlife1146.github.io/scroll-to-bottom/scroll-to-bottom.user.js
+// @updateURL       https://qlife1146.github.io/scroll-to-bottom/scroll-to-bottom.user.js
 // @grant           none
 // @match           http://vocaro.wikidot.com/*
 // ==/UserScript==
