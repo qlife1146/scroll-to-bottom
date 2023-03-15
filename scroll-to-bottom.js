@@ -4,6 +4,7 @@
 // @description	페이지 아래로 바로 내려갈 수 있는 버튼을 추가합니다.
 // @author		Luca_Tuna
 // @icon		http://vocaro.wikidot.com/local--files/nav:side/logo.png
+// @updateURL   https://raw.githubusercontent.com/qlife1146/scroll-to-bottom/master/scroll-to-bottom.js
 // @grant		none
 // @match		http://vocaro.wikidot.com/*
 // ==/UserScript==
