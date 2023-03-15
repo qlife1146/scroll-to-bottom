@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name            Scroll to Bottom Button
-// @version         1.0.5
+// @version         1.0.5414141
 // @description	    페이지 아래로 바로 내려갈 수 있는 버튼을 추가합니다.
 // @author          Luca_Tuna
 // @icon            http://vocaro.wikidot.com/local--files/nav:side/logo.png
