@@ -9,8 +9,6 @@
    ![방법 사진 1](https://i.imgur.com/wc9Meru.png)
 3. 아래 주소를 클릭한다.  
    https://raw.githubusercontent.com/qlife1146/scroll-to-bottom/master/scroll-to-bottom.user.js
-~~4. `도구` 버튼을 누르고 맨 아래 'Import from URL' 옆 칸에 3번에서 복사한 주소를 붙여넣고, `설치` 버튼을 누른다.
-   ~~
 5. `업그레이드` 혹은 `설치`(왼쪽 버튼)을 누른다.
    ![방법 사진 3](https://i.imgur.com/FUuX1c8.png)
 6. 보카로 위키에서 새로고침을 하면 오른쪽 하단에 버튼이 생긴다.
