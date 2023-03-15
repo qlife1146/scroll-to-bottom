@@ -6,8 +6,8 @@
 // @icon            http://vocaro.wikidot.com/local--files/nav:side/logo.png
 // @homepageURL     https://github.com/qlife1146/scroll-to-bottom/
 // @supportURL      https://github.com/qlife1146/scroll-to-bottom/issues
-// @downloadURL     https://raw.githubusercontent.com/qlife1146/scroll-to-bottom/master/scroll-to-bottom.js
-// @updateURL       https://raw.githubusercontent.com/qlife1146/scroll-to-bottom/master/scroll-to-bottom.js
+// @downloadURL     https://qlife1146.github.io/scroll-to-bottom/scroll-to-bottom.js
+// @updateURL       https://qlife1146.github.io/scroll-to-bottom/scroll-to-bottom.js
 // @grant           none
 // @match           http://vocaro.wikidot.com/*
 // ==/UserScript==
